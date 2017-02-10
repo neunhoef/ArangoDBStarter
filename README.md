@@ -1,6 +1,12 @@
 Starting an ArangoDB cluster the easy way
 =========================================
 
+THIS REPO HAS BEEN MOVED TO
+
+[https://github.com/arangodb-helper/ArangoDBStarter](https://github.com/arangodb-helper/ArangoDBStarter)
+
+Please use that one only from now on.
+
 Building
 --------
 
